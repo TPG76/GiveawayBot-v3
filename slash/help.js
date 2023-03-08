@@ -8,10 +8,10 @@ module.exports = {
       .setTitle(`Commands of ${client.user.username}`)
       .setColor('#2F3136')
       .setDescription('**Please Select a category to view all its commands**')
-      .addField(`Links:`, `- [Youtube Channel](https://www.youtube.com/channel/UCl2hKZ_0h1tx8HSuZA4-KYw)\n- [Discord Server](https://discord.gg/gtEsquUAzG)\n- [GitHub](https://github.com/mahmodulgaming)`, true)
+      .addField(`Links:`, `- [Youtube Channel](https://www.youtube.com/@Teg_Pro_Gaming)\n- [Discord Server](https://discord.gg/Wv6hjs7PYE)\n- [Invite Me](https://discord.com/api/oauth2/authorize?client_id=1082885282250104972&permissions=8&scope=bot)`, true)
       .setTimestamp()
       .setFooter({
-        text: `Requested by ${interaction.user.username} | GiveawayBot™ v3 By Mahmodul Gaming`,
+        text: `Requested by ${interaction.user.username} | GiveawayBot™ v3 By Teg Pro Gaming`,
         iconURL: interaction.user.displayAvatarURL()
       })
 
@@ -30,7 +30,7 @@ module.exports = {
       )
       .setTimestamp()
       .setFooter({
-        text: `Requested by ${interaction.user.username} | GiveawayBot™ v3 By Mahmodul Gaming`,
+        text: `Requested by ${interaction.user.username} | GiveawayBot™ v3 By Teg Pro Gaming`,
         iconURL: interaction.user.displayAvatarURL()
       })
 
@@ -45,7 +45,7 @@ module.exports = {
       )
       .setTimestamp()
       .setFooter({
-        text: `Requested by ${interaction.user.username} | GiveawayBot™ v3 By Mahmodul Gaming`,
+        text: `Requested by ${interaction.user.username} | GiveawayBot™ v3 By Teg Pro Gaming`,
         iconURL: interaction.user.displayAvatarURL()
       })
 
