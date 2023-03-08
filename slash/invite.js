@@ -9,11 +9,11 @@ module.exports = {
         new MessageButton()
         .setLabel(`Invite ${client.user.username}`)
         .setStyle('LINK')
-        .setURL(`https://discord.com/api/oauth2/authorize?client_id=1023579031293149355&permissions=8&scope=bot`),
+        .setURL(`https://discord.com/api/oauth2/authorize?client_id=1082885282250104972&permissions=8&scope=bot`),
         new MessageButton()
         .setLabel('Support Server')
         .setStyle('LINK')
-        .setURL("https://discord.gg/gtEsquUAzG"),
+        .setURL("https://discord.gg/Wv6hjs7PYE"),
     )
     let invite = new MessageEmbed()
       .setAuthor({ 
